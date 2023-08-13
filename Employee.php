@@ -19,7 +19,7 @@ class Employee
     {
         return $this->name;
     }
-    //tạo method get các field để đảm bảo tính đóng gói
+    //tạo method get các field để đảm bảo tính đóng gói //
     function getHoursWorked() {
         return $this->hoursWorked;
     }
